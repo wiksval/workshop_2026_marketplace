@@ -1,0 +1,8 @@
+{
+  "name": "tone-of-voice",
+  "description": "Переписує будь-який текст у tone of voice нашого продукту: дружньо, коротко, без канцеляризмів.",
+  "version": "0.1.0",
+  "author": {
+    "name": "val_adlo"
+  }
+}

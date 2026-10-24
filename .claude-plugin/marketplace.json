@@ -1,0 +1,17 @@
+{
+  "name": "val-adlo-marketplace",
+  "owner": {
+    "name": "val_adlo",
+    "email": "val_adlo@proton.me"
+  },
+  "metadata": {
+    "description": "Маркетплейс моїх скілів для Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "tone-of-voice",
+      "source": "./plugins/tone-of-voice",
+      "description": "Переписує текст у tone of voice продукту: дружньо, коротко, без канцеляризмів."
+    }
+  ]
+}
