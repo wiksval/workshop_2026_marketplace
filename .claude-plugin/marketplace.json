@@ -1,8 +1,7 @@
 {
   "name": "workshop_2026_marketplace",
   "owner": {
-    "name": "val_adlo",
-    "email": "val_adlo@proton.me"
+    "name": "val_adlo"
   },
   "metadata": {
     "description": "Маркетплейс моїх скілів для Claude Code"
